@@ -173,7 +173,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate('MainWindow', '包装型号一致性校验系统', None))
+        MainWindow.setWindowTitle(_translate('MainWindow', '包装盒检测', None))
         self.label.setText(_translate('MainWindow', '镜头一 未启动', None))
         self.label_2.setText(_translate('MainWindow', '镜头三 未启动', None))
         self.label_3.setText(_translate('MainWindow', '镜头二 未启动', None))
